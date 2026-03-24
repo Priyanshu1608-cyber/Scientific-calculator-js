@@ -19,7 +19,7 @@ A responsive scientific calculator built using HTML, CSS, and JavaScript.
 - LocalStorage
 
 ## Live Demo
-(Will add GitHub Pages link here)
+https://priyanshu1608-cyber.github.io/Scientific-calculator-js/
 
 ## Author
 Priyanshu
