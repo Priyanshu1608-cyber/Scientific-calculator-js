@@ -4,12 +4,11 @@ A responsive scientific calculator built using HTML, CSS, and JavaScript.
 
 ## Features
 - Basic arithmetic operations
-- Scientific functions (sin, cos, tan, log, sqrt, power)
-- Keyboard input support
-- Calculation history
-- Clear single history / clear all history
-- LocalStorage history saving
-- Dark/Light mode toggle
+- Scientific functions
+- History with LocalStorage
+- Clear single history / Clear all history
+- Keyboard support
+- Dark/Light mode
 - Mobile responsive design
 
 ## Technologies Used
@@ -20,6 +19,23 @@ A responsive scientific calculator built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 https://priyanshu1608-cyber.github.io/Scientific-calculator-js/
+
+## Screenshots
+
+### Dark Mode
+![Dark Mode](dark-mode.png)
+
+### Light Mode
+![Light Mode](light-mode.png)
+
+### Scientific Functions
+![Scientific](scientific.png)
+
+### History Panel
+![History](history.png)
+
+### Mobile Responsive
+![Mobile](mobile.png)
 
 ## Author
 Priyanshu
